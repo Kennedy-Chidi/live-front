@@ -92,9 +92,13 @@ export default {
       },
 
       {
-        src: "/script/smartSupp.js",
+        src: "//code.tidio.co/os8uz3iwxsf7u7qon5xdlzrict2sqcbv.js",
         type: "text/javascript",
       },
+      // {
+      //   src: "/script/smartSupp.js",
+      //   type: "text/javascript",
+      // },
     ],
   },
 
